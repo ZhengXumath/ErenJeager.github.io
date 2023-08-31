@@ -79,16 +79,16 @@ analytics:
 
 
 # Site Author
-# 在此处修改信息
+# 在此处修改信息------------------------------------------------------------------------------
 author:
   name             : "Ao Xu (徐奥)"
   avatar           : "profile.png"
   bio              : "I am Ao Xu."
   location         : "China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "xuao22@mails.jlu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
