@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ao Xu(徐奥)"
+title                    : "Ao Xu (徐奥)"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ao Xu (徐奥)"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -121,7 +121,7 @@ author:
 include:
   - .htaccess
   - _pages
-  - files
+  - 文件
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
