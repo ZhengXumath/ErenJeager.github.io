@@ -18,7 +18,7 @@ education.
 Papers
 ======
 
-1. [this repository](https://github.com/academicpages/academicpages.github.io) 
+1. 
 
 
 
