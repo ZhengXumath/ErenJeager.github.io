@@ -15,14 +15,12 @@ Education
 ======
 education.
 
-Getting started
+Papers
 ======
 
-1. 复刻 [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+1. [this repository](https://github.com/academicpages/academicpages.github.io) 
 
 
-Site-wide configuration
-------
 
 
 
