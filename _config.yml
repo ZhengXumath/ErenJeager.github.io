@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ao Xu (徐奥)"
+title                    : "Zheng Xu (徐政)"
 title_separator          : "-"
-name                     : &name "Ao Xu (徐奥)"
+name                     : &name "Zheng Xu (徐政)"
 description              : &description "personal description"
 url                      : https://ao-xu.github.io/aoxu.github.io
 # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Ao-Xu/aoxu.github.io"
+repository               : "Zheng-Xu/ErenJeager.github.io"
 #"academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -83,14 +83,14 @@ analytics:
 # Site Author
 # 在此处修改信息------------------------------------------------------------------------------
 author:
-  name             : "Ao Xu (徐奥)"
+  name             : "Zheng Xu (徐政)"
   avatar           : "profiledog.jpg"
-  bio              : "I am Ao Xu."
-  location         : "China, Changchun."
+  bio              : "I am Zheng Xu."
+  location         : "China, Beijing."
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "xuao22@mails.jlu.edu.cn"
+  email            : "zxu@amss.ac.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
