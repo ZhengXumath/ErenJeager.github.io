@@ -11,7 +11,7 @@ title                    : "Zheng Xu (徐政)"
 title_separator          : "-"
 name                     : &name "Zheng Xu (徐政)"
 description              : &description "personal description"
-url                      : https://ao-xu.github.io/aoxu.github.io
+url                      : https://zhengxumath.github.io/ErenJeager.github.io
 # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Zheng-Xu/ErenJeager.github.io"
