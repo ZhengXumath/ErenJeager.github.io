@@ -14,8 +14,7 @@ My research focuses on birational geometry in positive characteristics and I'm i
 Research
 ======
 
-Education
--------
+
 
 
 
