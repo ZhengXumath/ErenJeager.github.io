@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome! I'm Zheng Xu, a Ph.D. candidate at the Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences (CAS). I study algebraic geometry under the supervision of Professor Wenhao Ou.
-My research focuses on birational geometry in positive characteristics. Here is my <a href="https://github.com/ZhengXumath/ErenJeager.github.io/blob/master/cv.pdf">CV.
+My research focuses on birational geometry in positive characteristics. Here is my <a href="https://github.com/ZhengXumath/ErenJeager.github.io/files/cv.pdf">CV.
 
 Research
 ======
