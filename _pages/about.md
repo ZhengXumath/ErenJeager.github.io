@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! I'm Zheng Xu. I study algebraic geometry and I am a postdoctoral fellow of BICMR, Peking University. Before that, I got my Ph.D. from Academy of Mathematics and Systems Science, Chinese Academy of Sciences (CAS) in June 2024, supervised by Professor Wenhao Ou.
 My interests include birational geometry and Hodge theory, especially in positive and mixed characteristics.
-My research focuses on birational geometry in positive characteristics. Here is my [CV](https://github.com/ZhengXumath/ErenJeager.github.io/blob/master/cv.pdf).
+Here is my [CV](https://github.com/ZhengXumath/ErenJeager.github.io/blob/master/cv.pdf).
 
 Research
 ======
