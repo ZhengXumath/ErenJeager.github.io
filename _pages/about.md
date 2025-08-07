@@ -18,6 +18,8 @@ Research
 <br>[1]
 <a href="https://arxiv.org/abs/2508.04135">Niklas M\"uller, Zheng Xu. Lagrangian Fibrations onto Varieties with Isolated Quotient Singularities. arXiv preprint arXiv:2508.04135, 2025.
 
+Abstract. In this note, we show that if $f\colon M\rightarrow X$ is a germ of a projective Lagrangian fibration from a holomorphic symplectic manifold $M$ onto a normal analytic variety $X$ with isolated quotient singularities, then $X$ is smooth. In particular, if $f\colon M\rightarrow X$ is a Lagrangian fibration from a hyper-K\"ahler fourfold $M$ onto a normal surface $X$, then $X\cong \mathbb{P}^2$, which recovers a recent result of Huybrechts--Xu and Ou.
+
 <br>[2]
 <a href="https://arxiv.org/abs/2505.05250#">Jihao Liu, Zheng Xu. Non-vanishing implies numerical dimension one abundance. arXiv preprint arXiv:2505.05250, 2025.
 
