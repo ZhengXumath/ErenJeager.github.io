@@ -9,24 +9,27 @@ redirect_from:
 ---
 
 Welcome! I'm Zheng Xu. I study algebraic geometry. I am a postdoctoral fellow at BICMR, Peking University, mentored by Professor Zhiyu Tian. Before that, I got my Ph.D. from Academy of Mathematics and Systems Science, Chinese Academy of Sciences (CAS) in June 2024, supervised by Professor Wenhao Ou.
-My interests include birational geometry and Hodge theory, especially in positive and mixed characteristics.
+My interests include birational geometry and Hodge theory in any characteristic.
 Here is my [CV](https://github.com/ZhengXumath/ErenJeager.github.io/blob/master/cv.pdf).
 
 Research
 ======
 
 <br>[1]
-<a href="https://arxiv.org/abs/2505.05250#">Liu J., Xu Z. Non-vanishing implies numerical dimension one abundance. arXiv preprint arXiv:2505.05250, 2025.
+<a href="https://arxiv.org/abs/2508.04135">Niklas M\"uller, Zheng Xu. Lagrangian Fibrations onto Varieties with Isolated Quotient Singularities. arXiv preprint arXiv:2508.04135, 2025.
+
+<br>[2]
+<a href="https://arxiv.org/abs/2505.05250#">Jihao Liu, Zheng Xu. Non-vanishing implies numerical dimension one abundance. arXiv preprint arXiv:2505.05250, 2025.
 
 Abstract. We show that the non-vanishing conjecture implies the abundance conjecture when $\nu\leq 1$. We also prove the abundance conjecture in dimension $\leq 5$ when $\kappa\geq 0$ and $\nu\leq 1$ unconditionally.
 
-<br>[2]
-<a href="https://arxiv.org/abs/2307.03938">Xu Z. Abundance for threefolds in positive characteristic when $\nu= 2$[J]. arXiv preprint arXiv:2307.03938, 2023.
+<br>[3]
+<a href="https://arxiv.org/abs/2307.03938">Zheng Xu. Abundance for threefolds in positive characteristic when $\nu= 2$[J]. arXiv preprint arXiv:2307.03938, 2023.
 
 Abstract. In this paper, we prove the abundance conjecture for threefolds over an algebraically closed field $k$ of characteristic $p > 3$ in the case of numerical dimension equals to $2$. More  precisely, we prove that if $(X,B)$ be a projective lc threefold pair over $k$ such that $K_{X}+B$ is nef and $\nu(K_{X}+B)=2$, then $K_{X}+B$ is semiample. 
 
-<br>[3]
-<a href="https://arxiv.org/abs/2212.04039">Xu Z. NOTE ON THE THREE-DIMENSIONAL LOG CANONICAL ABUNDANCE IN CHARACTERISTIC >3. Nagoya Mathematical Journal. Published online 2024:1-30. doi:10.1017/nmj.2024.3
+<br>[4]
+<a href="https://arxiv.org/abs/2212.04039">Zheng Xu. NOTE ON THE THREE-DIMENSIONAL LOG CANONICAL ABUNDANCE IN CHARACTERISTIC >3. Nagoya Mathematical Journal. Published online 2024:1-30. doi:10.1017/nmj.2024.3
 
 Abstract. In this paper, we prove the non-vanishing and some special cases of the log abundance for lc threefold pairs over an algebraically closed field $k$ of characteristic $p > 3$. More  precisely, we prove that if $(X,B)$ be a projective lc threefold pair over $k$ and $K_{X}+B$ is pseudo-effective, then $\kappa(K_{X}+B)\geq 0$, and if $K_{X}+B$ is nef and $\kappa(K_{X}+B)\geq 1$, then $K_{X}+B$ is semiample. 
 
