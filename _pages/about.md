@@ -41,7 +41,7 @@ Abstract. We show that the non-vanishing conjecture implies the abundance conjec
 Abstract. In this paper, we prove the abundance conjecture for threefolds over an algebraically closed field $k$ of characteristic $p > 3$ in the case of numerical dimension equals to $2$. More  precisely, we prove that if $(X,B)$ be a projective lc threefold pair over $k$ such that $K_{X}+B$ is nef and $\nu(K_{X}+B)=2$, then $K_{X}+B$ is semiample. 
 
 <br>[6]
-<a href="https://arxiv.org/abs/2212.04039">Zheng Xu. NOTE ON THE THREE-DIMENSIONAL LOG CANONICAL ABUNDANCE IN CHARACTERISTIC >3. Nagoya Mathematical Journal. Published online 2024:1-30. doi:10.1017/nmj.2024.3
+<a href="https://arxiv.org/abs/2212.04039">Zheng Xu. NOTE ON THE THREE-DIMENSIONAL LOG CANONICAL ABUNDANCE IN CHARACTERISTIC >3. Nagoya Mathematical Journal. 55:694–723, 2024.
 
 Abstract. In this paper, we prove the non-vanishing and some special cases of the log abundance for lc threefold pairs over an algebraically closed field $k$ of characteristic $p > 3$. More  precisely, we prove that if $(X,B)$ be a projective lc threefold pair over $k$ and $K_{X}+B$ is pseudo-effective, then $\kappa(K_{X}+B)\geq 0$, and if $K_{X}+B$ is nef and $\kappa(K_{X}+B)\geq 1$, then $K_{X}+B$ is semiample. 
 
