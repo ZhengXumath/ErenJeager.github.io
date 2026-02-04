@@ -26,7 +26,7 @@ Abstract. We prove that globally $+$-regular varieties are rationally chain conn
 Abstract. Assuming the abundance conjecture in dimension $d$, we establish a non-algebraicity criterion of foliations: any log canonical foliation of rank $\le d$ with $\nu\neq\kappa$ is not algebraically integrable, answering question of Ambro--Cascini--Shokurov--Spicer. Under the same hypothesis, we prove abundance for klt algebraically integrable adjoint foliated structures of dimension $\le d$ and show the existence of good minimal models or Mori fiber spaces. In particular, when $d=3$, all these results hold unconditionally. 
 
 <br>[3]
-<a href="https://arxiv.org/abs/2508.04135">Niklas M\"uller, Zheng Xu. Lagrangian Fibrations onto Varieties with Isolated Quotient Singularities. arXiv preprint arXiv:2508.04135, 2025. To appear in Crelle's Journal.
+<a href="https://arxiv.org/abs/2508.04135">Niklas M\"uller, Zheng Xu. Lagrangian Fibrations onto Varieties with Isolated Quotient Singularities. Journal f¨ur die reine und angewandte Mathematik (Crelles Journal), doi:10.1515/crelle-2025-0096, 2026.
 
 Abstract. In this note, we show that if $f\colon M\rightarrow X$ is a germ of a projective Lagrangian fibration from a holomorphic symplectic manifold $M$ onto a normal analytic variety $X$ with isolated quotient singularities, then $X$ is smooth. In particular, if $f\colon M\rightarrow X$ is a Lagrangian fibration from a hyper-K\"ahler fourfold $M$ onto a normal surface $X$, then $X\cong \mathbb{P}^2$, which recovers a recent result of Huybrechts--Xu and Ou.
 
