@@ -16,7 +16,7 @@ Research
 ======
 
 <br>[1]
-Emre Alp \"Ozavc\i, Zsolt Patakfalvi, Kevin Tucker, Joe Waldron, Zheng Xu. On rational chain connectedness of globally $+$-regular varieties. Submitted for a volume of the Summer Research Institute in Algebraic Geometry held at Colorado State University in 2025.
+<a href="https://arxiv.org/abs/2510.04419"> Emre Alp \"Ozavc\i, Zsolt Patakfalvi, Kevin Tucker, Joe Waldron, Zheng Xu. On rational chain connectedness of globally $+$-regular varieties. Submitted for a volume of the Summer Research Institute in Algebraic Geometry held at Colorado State University in 2025.
 
 Abstract. We prove that globally $+$-regular varieties are rationally chain connected in dimension three and mixed characteristic with residue field characteristic $p>5$.  We also introduce a notion of strongly globally $+$-regular, and show that varieties of arbitrary dimension which are strongly globally $+$-regular over a dense open subset of $\mathrm{Spec}(\mathbb{Z})$ are rationally chain connected.
 
