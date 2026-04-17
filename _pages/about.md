@@ -36,7 +36,7 @@ Abstract. In this note, we show that if $f\colon M\rightarrow X$ is a germ of a 
 Abstract. We show that the non-vanishing conjecture implies the abundance conjecture when $\nu\leq 1$. We also prove the abundance conjecture in dimension $\leq 5$ when $\kappa\geq 0$ and $\nu\leq 1$ unconditionally.
 
 <br>[5]
-<a href="https://arxiv.org/abs/2307.03938">Zheng Xu. Abundance for threefolds in positive characteristic when $\nu= 2$[J]. arXiv preprint arXiv:2307.03938, 2023.
+<a href="https://arxiv.org/abs/2307.03938">Zheng Xu. Abundance for threefolds in positive characteristic when $\nu= 2$[J]. To appear in Compositio Mathematica.
 
 Abstract. In this paper, we prove the abundance conjecture for threefolds over an algebraically closed field $k$ of characteristic $p > 3$ in the case of numerical dimension equals to $2$. More  precisely, we prove that if $(X,B)$ be a projective lc threefold pair over $k$ such that $K_{X}+B$ is nef and $\nu(K_{X}+B)=2$, then $K_{X}+B$ is semiample. 
 
