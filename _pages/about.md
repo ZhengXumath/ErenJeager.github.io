@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm Zheng Xu. I study algebraic geometry. I am a postdoctoral fellow at BICMR, Peking University, mentored by Professor Zhiyu Tian. Before that, I got my Ph.D. from Academy of Mathematics and Systems Science, Chinese Academy of Sciences (CAS) in June 2024, supervised by Professor Wenhao Ou.
+Welcome! I'm Zheng Xu. I study algebraic geometry and I am a tenure-track assistant professor at the Southern University of Science and Technology(SusTech). I got my Ph.D. from Academy of Mathematics and Systems Science, Chinese Academy of Sciences (CAS) in June 2024, supervised by Professor Wenhao Ou. After that, I was a postdoctoral fellow of BICMR, Peking University, mentored by Professor Zhiyu Tian. 
 My interests include birational geometry and Hodge theory in any characteristic.
 Here is my [CV](https://github.com/ZhengXumath/ErenJeager.github.io/blob/master/cv.pdf).
 
@@ -26,8 +26,7 @@ Abstract. We prove that globally $+$-regular varieties are rationally chain conn
 Abstract. Assuming the abundance conjecture in dimension $d$, we establish a non-algebraicity criterion of foliations: any log canonical foliation of rank $\le d$ with $\nu\neq\kappa$ is not algebraically integrable, answering question of Ambro--Cascini--Shokurov--Spicer. Under the same hypothesis, we prove abundance for klt algebraically integrable adjoint foliated structures of dimension $\le d$ and show the existence of good minimal models or Mori fiber spaces. In particular, when $d=3$, all these results hold unconditionally. 
 
 <br>[3]
-<a href="https://www.degruyterbrill.com/document/doi/10.1515/crelle-2025-0096/html">Niklas M\"uller, Zheng Xu. Lagrangian Fibrations onto Varieties with Isolated Quotient Singularities. Journal für die reine und angewandte Mathematik (Crelles Journal), doi:10.1515/crelle-2025-0096, 2026.
-
+<a href="https://www.degruyterbrill.com/document/doi/10.1515/crelle-2025-0096/html">Niklas M\"uller, Zheng Xu. Lagrangian Fibrations onto Varieties with Isolated Quotient Singularities. Journal für die reine und angewandte Mathematik (Crelles Journal). 832:297-307, 2026.
 Abstract. In this note, we show that if $f\colon M\rightarrow X$ is a germ of a projective Lagrangian fibration from a holomorphic symplectic manifold $M$ onto a normal analytic variety $X$ with isolated quotient singularities, then $X$ is smooth. In particular, if $f\colon M\rightarrow X$ is a Lagrangian fibration from a hyper-K\"ahler fourfold $M$ onto a normal surface $X$, then $X\cong \mathbb{P}^2$, which recovers a recent result of Huybrechts--Xu and Ou.
 
 <br>[4]
