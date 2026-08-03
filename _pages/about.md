@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm Zheng Xu. I study algebraic geometry and I am a tenure-track assistant professor at the Southern University of Science and Technology(SusTech). I got my Ph.D. from Academy of Mathematics and Systems Science, Chinese Academy of Sciences (CAS) in June 2024, supervised by Professor Wenhao Ou. After that, I was a postdoctoral fellow of BICMR, Peking University, mentored by Professor Zhiyu Tian. 
+Welcome! I'm Zheng Xu. I study algebraic geometry and I am a tenure-track assistant professor at the Southern University of Science and Technology(SUSTech). I got my Ph.D. from Academy of Mathematics and Systems Science, Chinese Academy of Sciences (CAS) in June 2024, supervised by Professor Wenhao Ou. After that, I was a postdoctoral fellow of BICMR, Peking University, mentored by Professor Zhiyu Tian. 
 My interests include birational geometry and Hodge theory in any characteristic.
 Here is my [CV](https://github.com/ZhengXumath/ErenJeager.github.io/blob/master/cv.pdf).
 
