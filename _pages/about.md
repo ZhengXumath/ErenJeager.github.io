@@ -27,6 +27,7 @@ Abstract. Assuming the abundance conjecture in dimension $d$, we establish a non
 
 <br>[3]
 <a href="https://www.degruyterbrill.com/document/doi/10.1515/crelle-2025-0096/html">Niklas M\"uller, Zheng Xu. Lagrangian Fibrations onto Varieties with Isolated Quotient Singularities. Journal für die reine und angewandte Mathematik (Crelles Journal). 832:297-307, 2026.
+
 Abstract. In this note, we show that if $f\colon M\rightarrow X$ is a germ of a projective Lagrangian fibration from a holomorphic symplectic manifold $M$ onto a normal analytic variety $X$ with isolated quotient singularities, then $X$ is smooth. In particular, if $f\colon M\rightarrow X$ is a Lagrangian fibration from a hyper-K\"ahler fourfold $M$ onto a normal surface $X$, then $X\cong \mathbb{P}^2$, which recovers a recent result of Huybrechts--Xu and Ou.
 
 <br>[4]
