@@ -18,7 +18,7 @@ Research
 <br>[1]
 <a href="https://arxiv.org/abs/2610.10439"> Fabio Bernasconi, Jakub Witaszek, Zheng Xu. Abundance for threefolds in positive characteristic. arXiv preprint	arXiv:2610.10439, 2026.
 
-Abstract. We prove the abundance conjecture for threefolds in characteristic in $>42$.
+Abstract. We prove the abundance conjecture for threefolds in characteristic $>42$.
 
 <br>[2]
 <a href="https://arxiv.org/abs/2510.04419"> Emre Alp \"Ozavc\i, Zsolt Patakfalvi, Kevin Tucker, Joe Waldron, Zheng Xu. On rational chain connectedness of globally $+$-regular varieties. Submitted for a volume of the Summer Research Institute in Algebraic Geometry held at Colorado State University in 2025.
