@@ -26,7 +26,7 @@ Abstract. We prove the abundance conjecture for threefolds in characteristic $>4
 Abstract. We prove that globally $+$-regular varieties are rationally chain connected in dimension three and mixed characteristic with residue field characteristic $p>5$.  We also introduce a notion of strongly globally $+$-regular, and show that varieties of arbitrary dimension which are strongly globally $+$-regular over a dense open subset of $\mathrm{Spec}(\mathbb{Z})$ are rationally chain connected.
 
 <br>[3]
-<a href="https://arxiv.org/abs/2510.04419">Jihao Liu, Zheng Xu. Non-algebraicity of non-abundant foliations and abundance for adjoint foliated structures. arXiv preprint arXiv:2510.04419, 2025.
+<a href="https://arxiv.org/abs/2510.04419">Jihao Liu, Zheng Xu. Non-algebraicity of non-abundant foliations and abundance for adjoint foliated structures. arXiv preprint arXiv:2510.04419, 2025. To appear in Math. Annalen.
 
 Abstract. Assuming the abundance conjecture in dimension $d$, we establish a non-algebraicity criterion of foliations: any log canonical foliation of rank $\le d$ with $\nu\neq\kappa$ is not algebraically integrable, answering question of Ambro--Cascini--Shokurov--Spicer. Under the same hypothesis, we prove abundance for klt algebraically integrable adjoint foliated structures of dimension $\le d$ and show the existence of good minimal models or Mori fiber spaces. In particular, when $d=3$, all these results hold unconditionally. 
 
