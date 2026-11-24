@@ -18,7 +18,7 @@ Research
 <br>[1]
 <a href="https://arxiv.org/pdf/2611.30137"> Zheng Xu. Free rational curves on singular Fano varieties. arXiv preprint	arXiv:2611.30137, 2026.
 
-Abstract.
+Abstract. We prove that every klt Fano variety admits a free rational curve in its smooth locus.
 
 <br>[2]
 <a href="https://arxiv.org/abs/2610.10439"> Fabio Bernasconi, Jakub Witaszek, Zheng Xu. Abundance for threefolds in positive characteristic. arXiv preprint	arXiv:2610.10439, 2026.
